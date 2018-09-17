@@ -1,2 +1,2 @@
 # Detect
-Adapted filter for detecting veather station transmissions.
+Adapted filter for detecting weather station transmissions.
