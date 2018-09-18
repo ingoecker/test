@@ -4,3 +4,4 @@ s=start(:,2);plot(s);
  etta=[zeros(1,50) ones(1,75) zeros(1,50)]';
  
  nollconv=(conv(s,nolla)>23);plot(nollconv)
+ ettconv=(conv(s,etta)>23);plot(ettconv)
