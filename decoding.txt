@@ -1,0 +1,8 @@
+C:/Users/Ingemar/SignalProcessing/logdata_one.txt
+C38D93F1FF00FDD6BF3633
+
+C:/Users/Ingemar/SignalProcessing/logdata_two.txt
+C38D92F0FF0020F7BF3633
+
+C:/Users/Ingemar/SignalProcessing/logdata_zero.txt
+1C6C9797F805642D79B198
